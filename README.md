@@ -129,3 +129,9 @@ Use one of the several ways of running a Spring Boot application. Below are just
              }
            ]
            `
+
+#Rest Full WebServices Url
+
+http://testjwtclientid:XY7kmzoNzl100@localhost:8080/app/oauth/token?grant_type=password&username=john.doe&password=jwtpass
+
+http://localhost:8080/app/springjwt/cities
